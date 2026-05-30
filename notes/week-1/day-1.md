@@ -20,6 +20,10 @@
 - GitHub
 - Git Bash
 
+## Reflection
+
+Today I learned basic Git workflow.
+
 ## Next
 
 Day 2 - Advanced HTML & Semantic Architecture
